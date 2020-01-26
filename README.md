@@ -28,7 +28,7 @@ Ces bibliothèques ont été installés et embarqués avec le projet :
 
 ## Important
 Vous pouvez mettre à jour le dossier "visage_connus" avec les images des personnes que vous souhaitez détecter 
-(assurez-vous de recadrer les visages comme l'exemple de Amed.png dans le dossier "visage_connus").
+(assurez-vous de recadrer les visages comme l'exemple de kanoute.png dans le dossier "visage_connus").
 
 Compatibles qu'avec des image .jpg et .png
 
